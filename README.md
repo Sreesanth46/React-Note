@@ -1,4 +1,4 @@
-# Vue Paint
+# React Note
 
 Note App using React.
 
